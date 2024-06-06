@@ -1,5 +1,6 @@
 streamlit
 streamlit_option_menu
+python-dotenv
 numpy
 pandas
 scikit-learn
